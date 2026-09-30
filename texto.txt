@@ -1,3 +1,1 @@
-Primera1 frase cambiada
-segunda frase
-tercera frase
+conflicto en rama
